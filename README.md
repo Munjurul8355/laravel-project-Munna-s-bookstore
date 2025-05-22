@@ -87,4 +87,4 @@ Stock
 Price
 
 ✍️ Author
-Made ❤️ by [Munna-20]
+Made ❤️ by [MUNJURUL-20]
