@@ -2,9 +2,6 @@
 ![lara2](https://github.com/user-attachments/assets/90af4d7e-a147-4077-8d81-0f223bef6dac)
 
 A full-featured **Laravel CRUD application** for managing books in a bookstore. Users can search, view, update, and delete books in a clean and responsive UI.
-
-![Screenshot](./lara.png)
-
 ---
 
 ## 🔧 Features
